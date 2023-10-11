@@ -121,8 +121,7 @@ def ABG_about_callback(update, context):
                             text="🍃sᴜᴘᴘᴏʀᴛ🍃", url=f"t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="💘", url="https://t.me/ALL_ABOUT_VIBES"),
-                        ),
+                            text="💘", url="https://t.me/ALL_ABOUT_VIBES"),                       
                     ],
                     [
                         InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="ABG_"),
