@@ -69,7 +69,7 @@ def ABG_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🍃sᴜᴘᴘᴏʀᴛ🍃", callback_data="ABG_support"
+                            text="ᴍɪɴᴇ ᴄʜᴀᴛs", callback_data="ABG_support"
                         ),
                         InlineKeyboardButton(
                             text="ᴄʀᴇᴅɪᴛs", callback_data="ABG_credit"
@@ -118,10 +118,15 @@ def ABG_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🍃sᴜᴘᴘᴏʀᴛ🍃", url=f"t.me/{SUPPORT_CHAT}"
-                        ),
+                            text="🍃sᴜᴘᴘᴏʀᴛ🍃", url="https://t.me/Devils_Hell_0"),
                         InlineKeyboardButton(
                             text="💘", url="https://t.me/ALL_ABOUT_VIBES"),                       
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            text="ᴄʜᴀᴛᴛɪɴɢ", url="https://t.me/PANJABI_MEHKMA"),
+                        InlineKeyboardButton(
+                            text="sɪᴅʜᴜ ғᴇᴇʟɪɴɢs", url="https://t.me/OG_FEELINGS"),                       
                     ],
                     [
                         InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="ABG_"),
@@ -135,7 +140,7 @@ def ABG_about_callback(update, context):
             text=f"━━━━━━━ *ᴄʀᴇᴅɪᴛ* ━━━━━━━"
             "\n🛡️ *ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴇxᴏɴ ʀᴏʙᴏᴛ* 🛡️"
             "\n\nʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ"
-            f"\nꜱᴘᴏɴꜱᴏʀ ᴏꜰ [{BOT_NAME}](t.me/x_DEVIL_x_BBOT)"
+            f"\nꜱᴘᴏɴꜱᴏʀ ᴏꜰ [{BOT_NAME}](https://t.me/x_DEVIL_x_BBOT)"
             "\n\nʜᴇ ꜱᴘᴇɴᴛ ᴀ ʟᴏᴛ ᴏꜰ ᴛɪᴍᴇ ꜰᴏʀ"
             f"\nᴍᴀᴋɪɴɢ [{BOT_NAME}](t.me/{OWNER_USERNAME}) ᴀ"
             "\nꜱᴜᴘᴇʀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ",
