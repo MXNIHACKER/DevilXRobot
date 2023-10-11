@@ -140,7 +140,7 @@ def ABG_about_callback(update, context):
             text=f"━━━━━━━ *ᴄʀᴇᴅɪᴛ* ━━━━━━━"
             "\n🛡️ *ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴇxᴏɴ ʀᴏʙᴏᴛ* 🛡️"
             "\n\nʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ"
-            f"\nꜱᴘᴏɴꜱᴏʀ ᴏꜰ [{BOT_NAME}](https://t.me/x_DEVIL_x_BBOT)"
+            f"\nꜱᴘᴏɴꜱᴏʀ ᴏꜰ [{BOT_NAME}](t.me/x_DEVIL_x_BBOT)"
             "\n\nʜᴇ ꜱᴘᴇɴᴛ ᴀ ʟᴏᴛ ᴏꜰ ᴛɪᴍᴇ ꜰᴏʀ"
             f"\nᴍᴀᴋɪɴɢ [{BOT_NAME}](t.me/{OWNER_USERNAME}) ᴀ"
             "\nꜱᴜᴘᴇʀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ",
@@ -152,7 +152,7 @@ def ABG_about_callback(update, context):
                         InlineKeyboardButton(text="🏡", callback_data="start_back"),
                         InlineKeyboardButton(text="🛡️", callback_data="ABG_admin"),
                         InlineKeyboardButton(text="💳", callback_data="AsuX_help"),
-                        InlineKeyboardButton(text="🧑‍", callback_data="source_"),
+                        InlineKeyboardButton(text="💀", callback_data="source_"),
                         InlineKeyboardButton(text="🖥️", callback_data="help_back"),
                     ],
                     
@@ -188,13 +188,13 @@ def Source_about_callback(update, context):
                         InlineKeyboardButton(text="🏡", callback_data="start_back"),
                         InlineKeyboardButton(text="🛡️", callback_data="ABG_admin"),
                         InlineKeyboardButton(text="💳", callback_data="ABG_credit"),
-                        InlineKeyboardButton(text="🧑‍", url=f"tg://user?id={OWNER_ID}"),
+                        InlineKeyboardButton(text="💀", url=f"tg://user?id={OWNER_ID}"),
                         InlineKeyboardButton(text="🖥️", callback_data="help_back"),
                     ],
                     [
                         InlineKeyboardButton(
                             text="ꜱᴏᴜʀᴄᴇ",
-                            url="https://github.com/Abishnoi69/ExonRobot",  # DON'T CHANGE
+                            url="https://t.me/nothing_happen7",  # DON'T CHANGE
                         ),
                     ],
                 ]
